@@ -17,3 +17,5 @@ il s'agit de participer à une expérience sociale qui consiste à publier sur l
 **Clerck**
 **Cloudinary** (Ou tout autre système de stockage d'images)
 
+
+![Live-pics-brief initial](https://github.com/user-attachments/assets/e0ebd270-4393-457f-b1fb-a82e32a40321)
