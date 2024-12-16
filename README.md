@@ -12,7 +12,7 @@ Plus, d'infos, contactez moi au
 > Merci à Julie Mak' pour l'idée
 
 Brief de l'application :
-il s'agit de participer à une expérience sociale qui consiste à publier sur l'application des photos en rapport avec un thème qui fait partie de ceux proposés. l'expérience dure 2 mois je recherche des développeurs à l'aise sur les technos suivantes 
+il s'agit de participer à une expérience sociale qui consiste à publier sur l'application des photos en rapport avec un thème qui fait partie de ceux proposés. l'expérience dure 2 mois ou s'arrête lorsqu'un des participants a terminé de tout photographier. je recherche des développeurs à l'aise sur les technos suivantes 
 
 **LARAVEL**
 **ReactJs**
