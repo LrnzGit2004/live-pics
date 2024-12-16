@@ -1,6 +1,6 @@
 # Live Pics
 
-# La Stack de ce projet va changer Bientôt ! 
+# 🔴🔴🔴La Stack de ce projet va changer Bientôt ! 
 
 ``` Application d'upload de photo pour une expérience sociale ```
 
