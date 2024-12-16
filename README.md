@@ -1,5 +1,7 @@
 # Live Pics
 
+# La Stack de ce projet va changer Bientôt ! 
+
 ``` Application d'upload de photo pour une expérience sociale ```
 
 Plus, d'infos, contactez moi au 
@@ -12,9 +14,8 @@ Plus, d'infos, contactez moi au
 Brief de l'application :
 il s'agit de participer à une expérience sociale qui consiste à publier sur l'application des photos en rapport un thème qui fait partie des thèmes proposés par les utilisateurs. l'expérience dure 1 an (il est prévu qu'elle commence le 16 janvier 2025) je recherche des développeurs à l'aise sur les technos suivantes 
 
-**NextJs**
-**Prisma**
-**Clerck**
+**LARAVEL**
+**ReactJs**
 **Cloudinary** (Ou tout autre système de stockage d'images)
 
 
